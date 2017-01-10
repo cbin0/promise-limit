@@ -1,7 +1,7 @@
 {
   "name": "promise-parallel-limit",
   "version": "1.0.0",
-  "description": "limit parallel count when all & map ...",
+  "description": "limit parallel count when use Promise.all",
   "main": "index.js",
   "scripts": {
     "test": "npm run build && mocha",
