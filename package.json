@@ -1,5 +1,5 @@
 {
-  "name": "promise-limit",
+  "name": "promise-parallel-limit",
   "version": "1.0.0",
   "description": "limit parallel count when all & map ...",
   "main": "index.js",
