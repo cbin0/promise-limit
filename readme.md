@@ -2,9 +2,14 @@
 
 Limit parallel count when all & map ..
 
+### install
+```sh
+npm install promise-parallel-limit
+```
+
 ### usage
 ```js
-var limit = require('promise-limit');
+var limit = require('promise-parallel-limit');
 // any Promise lib, eg bluebird
 var Promise = require('bluebird');
 /*
